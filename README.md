@@ -1,6 +1,6 @@
 # Elrond SDK for JavaScript: Wallet Connect provider
 
-Signing provider for dApps: Wallet Connect. 
+Signing provider for dApps: Wallet Connect.
 
 Documentation is available on [docs.elrond.com](https://docs.elrond.com/sdk-and-tools/erdjs/erdjs-signing-providers/), while an integration example can be found [here](https://github.com/ElrondNetwork/elrond-sdk-erdjs-examples/tree/main/signing-providers).
 
